@@ -9,3 +9,4 @@ is to gather short C examples scattered throughout my computers and backups.)
 * `eventfd/`: a simple example illustrating how the `eventfd(2)` system call can be used to synchronize a parent process and its children
 * `flock_example/`: a simple example illustrating the `flock(2)` system call
 * `so_attach_filter_udp/`: a simple example illustrating how to attach classic BPF filters to sockets
+* `seccomp_filter/`: a simple example illustrating how to use `libseccomp`
