@@ -11,3 +11,4 @@ is to gather short C examples scattered throughout my computers and backups.)
 * `so_attach_filter_udp/`: a simple example illustrating how to attach classic BPF filters to sockets
 * `seccomp_filter/`: a simple example illustrating how to use `libseccomp`
 * `tail-calls-and-bpf-to-bpf/`: a minimalistic example on how to use `fentry/fexit`, `freplace`, and tail calls in BPF
+* `mapinspector/`: a minimalistic example on how to use BPF Map Iterators (by listing some properties of `hash_of_maps` unavailable via `bpftool`)
